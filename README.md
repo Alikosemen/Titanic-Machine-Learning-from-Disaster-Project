@@ -8,3 +8,9 @@ Through this application, users can input their details, and the machine learnin
 ![Titanic Logo](/photo13_app.JPG)
 
 ## Project Photos
+
+![Description of Image 1](/gui2.JPG)
+
+![Description of Image 2](/died_gui.JPG)
+
+![Description of Image 3](/gui_survived.JPG)
