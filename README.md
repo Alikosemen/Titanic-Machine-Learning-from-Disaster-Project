@@ -6,7 +6,7 @@ Through this application, users can input their details, and the machine learnin
 
 ## Project Photos
 
-![Overview Image](/overview_image.jpg) 
+![Overview Image](/photo13_app.jpg) 
 
 ![Feature 1 Image](path/to/your/feature1_image.jpg) 
 ![Feature 2 Image](path/to/your/feature2_image.jpg)
