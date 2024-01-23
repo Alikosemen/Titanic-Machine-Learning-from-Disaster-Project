@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster Project ![Titanic Logo](/photo13_app.jpg)
+# Titanic: Machine Learning from Disaster Project ![Titanic Logo](/photo13_app.JPG)
 
 This project leverages a machine learning model to process data from passengers aboard the Titanic during its voyage in 1912. We've developed a desktop application that utilizes this model to predict whether a user would have survived the Titanic shipwreck.
 
