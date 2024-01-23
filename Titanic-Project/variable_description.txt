@@ -1,0 +1,19 @@
+1-PassengerId = Passenger number
+2-Survived = 0 --> died 
+             1 --> lived
+3-Pclass 1--> class 1
+         2--> class 2
+         3--> class 3
+         
+4-Name = Passenger names
+5-Sex = Female/Male
+6-Age = Passenger ages
+7-Sibsp = Siblings Spouses--> Number of siblings or spouses for that person
+8-Parch = Parent Children--> Number of parents or children for that person
+9-Ticket = Number of tickets like PC 17599 or 113803 
+10-Fare = Price of tickets
+11-Cabin = Cabin numbers
+12-Embark = The embarkation port Southampton(S) / C / QuoinStone(Q)
+
+   
+       
